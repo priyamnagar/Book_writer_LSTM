@@ -21,6 +21,7 @@ Code for the LSTM is provided in the notebook CharRNN.ipynb. The model is create
 To use the code, execute all the cells in CharRNN.ipynb and send the required arguments in sample function.
 
       sample(model, 1000, prime='Anna', top_k=5)
+
       
 ### How to Contribute
 Find any typos? Have another resource you think should be included? Contributions are welcome!
